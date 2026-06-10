@@ -6,7 +6,8 @@ on:
   workflow_dispatch:
 
 jobs:
-  build: Update this repo's README with recent activity
+  build: 
+    name: Update this repo's README with recent activity
     runs-on: ubuntu-latest
     permissions:
       contents: write
