@@ -22,6 +22,8 @@ I'm an accountant turned analyst and now, tech enthusiast👩🏼‍💻. I thri
 
 
 <!--START_SECTION:activity-->
+1. 🗣 Commented on [#131](https://github.com/Women-Devs-SG/womendevssg/issues/131#issuecomment-4645132515) in [Women-Devs-SG/womendevssg](https://github.com/Women-Devs-SG/womendevssg)
+<!--END_SECTION:activity-->
 
 
 
