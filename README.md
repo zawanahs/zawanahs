@@ -15,6 +15,9 @@ I'm an accountant turned analyst and now, tech enthusiast👩🏼‍💻. I thri
 > "Do not mistake my questions for ignorance; they are the instruments by which I refuse to remain confused"
 
 
+### Fun stats
+![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=2wnhhh)
+
 ### Recent Github Activity
 <!-- Reference: https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
