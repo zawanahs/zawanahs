@@ -16,6 +16,7 @@ I'm an accountant turned analyst and now, tech enthusiast👩🏼‍💻. I thri
 
 
 ### Fun stats
+<!--https://github.com/KevzPeter/Duolingo-Stats-Card-->
 ![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=2wnhhh)
 
 ### Recent Github Activity
