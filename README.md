@@ -10,6 +10,8 @@ I'm an accountant turned analyst and now, tech enthusiast👩🏼‍💻. I thri
 
 <!--
 ### Reads / Insights -->
+### Reminders
+> "Do not mistake my questions for ignorance; they are the instruments by which I refuse to remain confused"
 
 ### Recent Github Activity
 <!-- Reference: https://github.com/jamesgeorge007/github-activity-readme -->
