@@ -8,10 +8,12 @@ I'm an accountant turned analyst and now, tech enthusiast👩🏼‍💻. I thri
 ### Reach me @
 [<img src="https://raw.githubusercontent.com/zawanahs/zawanahs/master/assets/linkedin.svg" height="40em" align="center" alt="Follow zawanahs on LinkedIn" title="Follow zawanahs on LinkedIn"/>](https://www.linkedin.com/in/zawanah/)
 
+
 <!--
 ### Reads / Insights -->
 ### Reminders
 > "Do not mistake my questions for ignorance; they are the instruments by which I refuse to remain confused"
+
 
 ### Recent Github Activity
 <!-- Reference: https://github.com/jamesgeorge007/github-activity-readme -->
