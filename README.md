@@ -22,7 +22,7 @@ I'm an accountant turned analyst and now, a builder👩🏼‍💻. I thrive on 
 ### Recent Github Activity
 <!-- Reference: https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#217](https://github.com/Women-Devs-SG/womendevssg/pull/217) in [Women-Devs-SG/womendevssg](https://github.com/Women-Devs-SG/womendevssg)
+1. ℹ️ Assigned issue [#16](https://github.com/Women-Devs-SG/community-event-analytics/issues/16) in [Women-Devs-SG/community-event-analytics](https://github.com/Women-Devs-SG/community-event-analytics)
 <!--END_SECTION:activity-->
 
 
